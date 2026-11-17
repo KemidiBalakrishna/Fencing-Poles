@@ -1,0 +1,8 @@
+{
+  "name": "Fencing Poles Manufacturers",
+  "description": "Strong Poles. Reliable Protection. Long-Lasting Quality. Professional Rock Poles and Cement Poles manufacturing and bulk supply catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
